@@ -1,4 +1,4 @@
-# quickprinter-integration
+# QuickPrinter integration sample
 Application to help people integrate with QuickPrinter
 
 There are 3 modes of integration:
